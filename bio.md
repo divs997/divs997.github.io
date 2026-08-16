@@ -16,4 +16,4 @@ Her research focuses on machine learning for healthcare, particularly forecastin
 She is broadly interested in robotics and in building machine learning systems for healthcare. Divya has previously interned at Amazon on the Alexa Skills team.
 
 ## Photo for publication
-![Divya Gupta](assets/images/hlf/divya_gupta.jpg)
+![Divya Gupta](assets/images/divya_gupta.jpg)
