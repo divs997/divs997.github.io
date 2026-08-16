@@ -17,7 +17,7 @@ His research focuses on developing new robot learning, mobile manipulation, and 
 Zackory's work spans physical human-robot interaction, healthcare robotics, wearable health sensing, robot learning, physics simulation, multimodal perception, and mobile manipulation.
 Prior to joining CMU, Zackory received his PhD in Robotics from Georgia Tech with Prof. Charlie Kemp. 
 He also received an M.S. in Computer Science from Georgia Tech and B.S. in Computer Science at the University of Wisconsin--La Crosse.
-He and his students have received Best Paper Award at HRI 2024, Best Student Paper Award at ICORR 2019, and a Best Paper in Service Robotics finalist at ICRA 2019.
+He and his students have received the Best Paper Award at HRI 2026 and HRI 2024, Best Paper nominations at HRI 2026 and HRI 2025, Best Student Paper Award at ICORR 2019, and a Best Paper in Service Robotics finalist at ICRA 2019.
 
 ## Photo for publication
 ![Zackory Erickskon](assets/images/zackory_erickson.jpg)
